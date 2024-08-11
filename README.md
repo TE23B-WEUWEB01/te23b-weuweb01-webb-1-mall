@@ -21,7 +21,7 @@ Github är en tjänst för att lagra och dela kod. Du kommer att använda github
   * Valfritt lösenord
   * Använd din skolmail
 
-### Intro till *VS Code*
+## Intro till *VS Code*
 
 *VS Code* är en fantastisk editor som är gratis och som fungerar på alla plattformar:
 https://www.youtube.com/watch?v=B-s71n0dHUk&list=PLj6YeMhvp2S5UgiQnBfvD7XgOMKs3O_G6
@@ -34,7 +34,7 @@ Följande tillägg kommer att installeras automatiskt:
 * [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 * [VSCode Great Icons](https://marketplace.visualstudio.com/items?itemName=emmanuelbeziat.vscode-great-icons)
 
-### Kortare prompt i Powershell
+## Kortare prompt i Powershell
 
 I terminalen i *VS Code* blir prompten väldigt lång.  
 Gör följande för att korta ned prompten i Terminalen/Konsolen i *VS Code*.
